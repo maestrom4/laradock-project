@@ -1,2 +1,2 @@
-# laradock-project
+# laradock
 Laravel project private
